@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Коворкинг ОКЭИ</string>
+    <string name="title_catalog">Каталог мест</string>
+    <string name="my_bookings">Мои бронирования</string>
+    <string name="category_all">Все</string>
+    <string name="category_open_space">Open Space</string>
+    <string name="category_meeting">Meeting Room</string>
+    <string name="category_private">Private Office</string>
+    <string name="category_quiet">Quiet Zone</string>
+    <string name="book_action">Забронировать</string>
+    <string name="cancel_action">Отменить бронь</string>
+    <string name="qr_pass_action">QR-пропуск</string>
+    <string name="select_date">Выбрать дату</string>
+    <string name="select_time">Время начала:</string>
+    <string name="select_duration">Длительность (часов):</string>
+    <string name="no_bookings_yet">У вас пока нет активных бронирований</string>
+</resources>
